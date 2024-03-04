@@ -1,3 +1,3 @@
-import { one, two } from './src/index.js';
+import { one, two } from "./src/index.js";
 one();
 two();
